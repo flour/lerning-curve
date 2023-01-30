@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lc.oidc", "lc.oidc\lc.oidc.csproj", "{B25FD96A-37B4-40E6-8156-078512E18004}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B25FD96A-37B4-40E6-8156-078512E18004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B25FD96A-37B4-40E6-8156-078512E18004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B25FD96A-37B4-40E6-8156-078512E18004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B25FD96A-37B4-40E6-8156-078512E18004}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
